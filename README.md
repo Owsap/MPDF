@@ -1,6 +1,9 @@
 # MPDF
 ## _Mob Proto Data Filler_
-[![DEMO](https://img.youtube.com/vi/_oqFcJW1GACE/maxresdefault.jpg)](https://youtu.be/oqFcJW1GACE)
+[![Release Package](https://github.com/icon-project/icon-release/workflows/Release%20packages/badge.svg?event=workflow_dispatch)](https://github.com/Owsap/MPDF/releases/tag/V1)
+
+[![DEMO](https://img.youtube.com/vi/oqFcJW1GACE/maxresdefault.jpg)](https://youtu.be/oqFcJW1GACE)
+
 This tool fills in missing values from extracted tables from official clients, these values such as gold, skills and other values are important for the final complete functioning of the table.
 Below is a list of the columns the reference table will replace with your full table.
 | Column | Description |
